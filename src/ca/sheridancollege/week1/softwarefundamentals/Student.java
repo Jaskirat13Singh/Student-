@@ -13,6 +13,26 @@ public class Student {
 
     private int ID;
     private String name;
+    private String Email;
+
+    /**
+     * Get the value of Email
+     *
+     * @return the value of Email
+     */
+    public String getEmail() {
+        return Email;
+    }
+
+    /**
+     * Set the value of Email
+     *
+     * @param Email new value of Email
+     */
+    public void setEmail(String Email) {
+        this.Email = Email;
+    }
+
 
     
     private String Address;
