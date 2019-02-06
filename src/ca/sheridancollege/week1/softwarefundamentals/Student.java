@@ -79,7 +79,7 @@ public class Student {
    
 
     /**
-     * Get the value of string
+     * Get the value of strig
      *
      * @return the value of string
      */
